@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movies_Kotlin</string>
+    <string name="TV_login">Login</string>
+    <string name="et_Username">Username</string>
+    <string name="et_passwd">Password</string>
+    <string name="btn_log_in">Log in</string>
+    <string name="btn_make_account">Make account</string>
+    <string name="Tv_Create_account">Create Account</string>
+    <string name="et_confirm_password">Confirm Password</string>
+    <string name="et_email">E-mail</string>
+    <string name="ET_username_or_email">Username or Email</string>
+</resources>
