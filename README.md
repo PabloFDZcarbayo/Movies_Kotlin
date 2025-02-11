@@ -99,7 +99,9 @@ This project is **under development**, and there are still features to implement
   <img src="https://github.com/user-attachments/assets/0c8d1440-09a5-4adb-9c83-4f40036e470d" width="45%" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/571e617a-7ace-4c77-b6e1-035c5415b6de" width="45%" />
+     https://github.com/user-attachments/assets/d0f5cac9-005c-46b0-9350-fbfbbfd9530a
+
+  <img src="https://github.com/user-attachments/assets/d0f5cac9-005c-46b0-9350-fbfbbfd9530a" width="45%" />
 </p>
 
 
