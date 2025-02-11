@@ -1,4 +1,7 @@
+
 # 🎬 Movie List App (Android)
+
+![Movie List App](https://raw.githubusercontent.com/PabloFDZcarbayo/Movies_Kotlin/main/banner.png)
 
 ¡Bienvenido al repositorio de **Movie List App**! Esta es una aplicación Android en desarrollo que muestra un listado de películas utilizando la API de [The Movie Database (TMDb)](https://www.themoviedb.org/). La aplicación permite a los usuarios explorar películas populares, ver detalles y guardar sus favoritos.
 
