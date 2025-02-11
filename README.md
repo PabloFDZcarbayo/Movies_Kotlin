@@ -94,12 +94,13 @@ This project is **under development**, and there are still features to implement
 - JDK 11 or higher.
 - An API key from [The Movie Database (TMDb)](https://www.themoviedb.org/).
 
-
-![Screenshot_20250211_125043_Movies_Kotlin](https://github.com/user-attachments/assets/181b2666-ee7b-4578-a3d3-e21a7365930c)
-![Screenshot_20250211_125030_Movies_Kotlin](https://github.com/user-attachments/assets/0c8d1440-09a5-4adb-9c83-4f40036e470d)
-![Screenshot_20250211_125043_Movies_Kotlin](https://github.com/user-attachments/assets/571e617a-7ace-4c77-b6e1-035c5415b6de)
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/181b2666-ee7b-4578-a3d3-e21a7365930c" width="45%" />
+  <img src="https://github.com/user-attachments/assets/0c8d1440-09a5-4adb-9c83-4f40036e470d" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/571e617a-7ace-4c77-b6e1-035c5415b6de" width="45%" />
+</p>
 
 
 
