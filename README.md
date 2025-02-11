@@ -99,7 +99,6 @@ This project is **under development**, and there are still features to implement
   <img src="https://github.com/user-attachments/assets/0c8d1440-09a5-4adb-9c83-4f40036e470d" width="45%" />
 </p>
 <p align="center">
-     https://github.com/user-attachments/assets/d0f5cac9-005c-46b0-9350-fbfbbfd9530a
 
   <img src="https://github.com/user-attachments/assets/d0f5cac9-005c-46b0-9350-fbfbbfd9530a" width="45%" />
 </p>
