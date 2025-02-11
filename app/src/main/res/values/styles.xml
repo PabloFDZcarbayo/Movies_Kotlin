@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--para que la imagen se vea redondeada, aplicable en una shapeableImageView-->
+    <style name="RoundedBottomImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+    </style>
+
+
+
+
+
+
+</resources>

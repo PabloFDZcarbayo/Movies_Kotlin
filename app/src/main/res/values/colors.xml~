@@ -8,6 +8,6 @@
     <color name="item_background">#25233d</color>
 
     <color name = "primary">#e21136</color>
-    <color name = "primaryDark">#620717</color>
+    <color name = "primaryDark"></color>
 
 </resources>

@@ -1,4 +1,4 @@
-package com.utad.movies_kotlin.Data.Local.Database.ROOM.Model
+package com.utad.movies_kotlin.Model
 
 data class User(
     var id: Int,

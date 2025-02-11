@@ -1,9 +1,18 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.Movies_Kotlin" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name = "colorPrimary">@color/white</item>
+        <item name ="colorSecondary">@color/primary</item>
+        <item name ="colorSecondaryVariant">@color/primaryDark</item>
+    </style>
+    <!-- Popup menu theme -->
+    <style name="PopupTheme" parent="ThemeOverlay.Material3">
+        <item name="android:textColor">@color/custom_background</item>
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/raleway_medium</item>
+        <item name="android:letterSpacing">0.2</item>
+        <item name="popupMenuBackground">@drawable/popup_menu</item><!-- borde y fondo-->
     </style>
 
-    <style name="Theme.Movies_Kotlin" parent="Base.Theme.Movies_Kotlin" />
 </resources>

@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
+import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
@@ -18,9 +19,7 @@ import javax.inject.Inject
 @AndroidEntryPoint
 class Sing_Up_Activity : AppCompatActivity() {
     private lateinit var binding: ActivitySingUpBinding
-
-    @Inject
-    lateinit var user_viewModel: User_ViewModel
+    private val user_viewModel: User_ViewModel by viewModels()
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -59,13 +58,13 @@ class Sing_Up_Activity : AppCompatActivity() {
         }
 
         //Evento para la navegacion
-        user_viewModel.navigateToLogin.observe(this) {
+        user_viewModel.navigateTo.observe(this) {
             if (it) {
                 navigateToLogin()
             }
         }
 
-       //Evento para mostrar Toast
+        //Evento para mostrar Toast
         user_viewModel.showToast.observe(this) { message ->
             Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
         }

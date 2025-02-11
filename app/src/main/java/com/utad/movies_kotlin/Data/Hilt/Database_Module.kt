@@ -1,8 +1,9 @@
-package com.utad.movies_kotlin.Data.Local.Database.HILT.DI
+package com.utad.movies_kotlin.Data.Hilt
 
 import android.content.Context
 import androidx.room.Room
 import com.utad.movies_kotlin.Data.Local.Database.ROOM.AppDatabase
+import com.utad.movies_kotlin.Data.Local.Database.ROOM.DAO.Film_DAO
 import com.utad.movies_kotlin.Data.Local.Database.ROOM.DAO.User_DAO
 import dagger.Module
 import dagger.Provides
@@ -30,5 +31,10 @@ object Database_Module {
             .build()
     }
     @Provides
+    @Singleton
     fun provideUserDao(appDatabase: AppDatabase): User_DAO = appDatabase.user_dao()
+
+    @Provides
+    @Singleton
+    fun providesFilmDao(appDatabase: AppDatabase): Film_DAO = appDatabase.film_dao()
 }

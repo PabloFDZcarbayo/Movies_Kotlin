@@ -1,4 +1,4 @@
-package com.utad.movies_kotlin.Data.Local.Database.Repositories
+package com.utad.movies_kotlin.Data.Repositories
 
 import com.utad.movies_kotlin.Data.Local.Database.ROOM.DAO.User_DAO
 import com.utad.movies_kotlin.Data.Local.Database.ROOM.Entities.User_Entitie

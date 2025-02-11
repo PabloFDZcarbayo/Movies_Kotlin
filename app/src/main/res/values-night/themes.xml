@@ -1,7 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.Movies_Kotlin" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+        <item name = "colorSurface">@color/primary</item>
+        <item name = "colorPrimaryVariant">@color/primary</item>
+        <item name ="colorSecondary">@color/primary</item>
+        <item name ="colorSecondaryVariant">@color/primaryDark</item>
     </style>
-</resources>
+
+
+    </resources>

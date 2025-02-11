@@ -9,4 +9,5 @@
     <string name="et_confirm_password">Confirm Password</string>
     <string name="et_email">E-mail</string>
     <string name="ET_username_or_email">Username or Email</string>
+    <string name="tv_description">Description</string>
 </resources>
