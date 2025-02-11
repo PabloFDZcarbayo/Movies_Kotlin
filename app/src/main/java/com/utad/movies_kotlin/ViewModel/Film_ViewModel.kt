@@ -15,7 +15,7 @@ import javax.inject.Inject
 class Film_ViewModel @Inject constructor(private val repository: Film_Repository) : ViewModel() {
 
     //Con esta clave realizaremos nuestras llamadas a Api
-    private val apiKey = "284c122df03587f5f8a10ffba8ad8daf"
+    private val apiKey = "${YOUR_API_KEY}"
 
     //Indicamos  al RV que peliculas hay que mostrar en cada momento
     private val _moviesToShow = MutableLiveData<List<Film>?>(emptyList())
