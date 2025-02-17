@@ -1,7 +1,6 @@
 
 # 🎬 Movie List App (Android)
 
-![Movie List App](https://raw.githubusercontent.com/PabloFDZcarbayo/Movies_Kotlin/main/banner.png)
 
 ¡Bienvenido al repositorio de **Movie List App**! Esta es una aplicación Android en desarrollo que muestra un listado de películas utilizando la API de [The Movie Database (TMDb)](https://www.themoviedb.org/). La aplicación permite a los usuarios explorar películas populares, ver detalles y guardar sus favoritos.
 
@@ -45,7 +44,7 @@ Este proyecto está **en desarrollo** y aún faltan cosas por implementar y mejo
 
 - Android Studio (versión recomendada: Arctic Fox o superior).
 - JDK 11 o superior.
-- Una clave de API de [The Movie Database (TMDb)](https://www.themoviedb.org/).
+- Una clave de API de [The Movie Database (TMDb)](https://www.themoviedb.org/), la cual debe poner en el archvio Film_ViewModel.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -95,7 +94,7 @@ This project is **under development**, and there are still features to implement
 
 - Android Studio (recommended version: Arctic Fox or higher).
 - JDK 11 or higher.
-- An API key from [The Movie Database (TMDb)](https://www.themoviedb.org/).
+- An API key from [The Movie Database (TMDb)](https://www.themoviedb.org/), must  be placed in Film_ViewModel file.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/181b2666-ee7b-4578-a3d3-e21a7365930c" width="45%" />
